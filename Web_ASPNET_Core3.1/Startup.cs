@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Web_ASPNET_Core3._1.Models;
 
 namespace Web_ASPNET_Core3._1
 {
@@ -24,6 +25,7 @@ namespace Web_ASPNET_Core3._1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<Context>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
