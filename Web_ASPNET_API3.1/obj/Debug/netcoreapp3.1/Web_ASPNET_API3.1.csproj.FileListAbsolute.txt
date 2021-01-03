@@ -1,0 +1,6 @@
+D:\MeusProjetos\C#\ASPNET.MVC\Web_ASPNET_API3.1\obj\Debug\netcoreapp3.1\Web_ASPNET_API3.1.csprojAssemblyReference.cache
+D:\MeusProjetos\C#\ASPNET.MVC\Web_ASPNET_API3.1\obj\Debug\netcoreapp3.1\Web_ASPNET_API3.1.AssemblyInfoInputs.cache
+D:\MeusProjetos\C#\ASPNET.MVC\Web_ASPNET_API3.1\obj\Debug\netcoreapp3.1\Web_ASPNET_API3.1.AssemblyInfo.cs
+D:\MeusProjetos\C#\ASPNET.MVC\Web_ASPNET_API3.1\obj\Debug\netcoreapp3.1\Web_ASPNET_API3.1.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\C#\ASPNET.MVC\Web_ASPNET_API3.1\obj\Debug\netcoreapp3.1\Web_ASPNET_API3.1.MvcApplicationPartsAssemblyInfo.cache
+D:\MeusProjetos\C#\ASPNET.MVC\Web_ASPNET_API3.1\obj\Debug\netcoreapp3.1\Web_ASPNET_API3.1.MvcApplicationPartsAssemblyInfo.cs
